@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am **Xinghao Chen**, a joint Ph.D. student at the [NLP Group](https://polyunlp.github.io/) of The Hong Kong Polytechnic University & [EIT NLP](https://eit-nlp.github.io/) of , fortunately supervised by Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) and Dr. [Xiaoyu Shen](https://chin-gyou.github.io//). I received my bachelor's degree from the [College of Artifical Intelligence](https://ai.nankai.edu.cn/) at Nankai University in 2023.  
+I am **Xinghao Chen**, a joint Ph.D. student at the [NLP Group](https://polyunlp.github.io/) of The Hong Kong Polytechnic University & [EIT NLP](https://eit-nlp.github.io/) of Eastern Institute of Technology, Ningbo, fortunately supervised by Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) and Dr. [Xiaoyu Shen](https://chin-gyou.github.io//). I received my bachelor's degree from the [College of Artifical Intelligence](https://ai.nankai.edu.cn/) at Nankai University in 2023.  
 
 # Research
 
