@@ -67,6 +67,6 @@ COMP 5511: Artificial Intelligence Concepts, Fall 2024, PolyU
 [2025.06] Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning at [NICE](https://nice-nlp.github.io/) and [CIPS](http://lmg.cipsc.org.cn/index.html). [[video]](https://mp.weixin.qq.com/s/LAxGE-1q0aoJjhftTa_aiQ?from=groupmessage&isappinstalled=0&scene=1&clicktime=1749642277&enterid=1749642277) 
 
 
-<div id="clustrmaps-widget" style="width:40%">
+<div id="clustrmaps-widget" style="width:40%; margin: 0 auto; display: block;">
 			<script type='text/javascript' id='clustrmaps' src='//clustrmaps.com/map_v2.js?d=EoPAaiFrvVl-nH3vsQ9fQul7urlg3cwFzuGtOtGIypA&cl=ffffff&w=a'></script>
 </div>	
