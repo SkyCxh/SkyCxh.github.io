@@ -10,18 +10,21 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am **Xinghao Chen**, a joint Ph.D. student at the [NLP Group](https://polyunlp.github.io/) of The Hong Kong Polytechnic University & [EIT NLP](https://eit-nlp.github.io/), fortunately supervised by Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) and Dr. [Xiaoyu Shen](https://chin-gyou.github.io//). I received my bachelor's degree from the [College of Artifical Intelligence](https://ai.nankai.edu.cn/) at Nankai University in 2023.  
+I am **Xinghao Chen**, a joint Ph.D. student at the [NLP Group](https://polyunlp.github.io/) of The Hong Kong Polytechnic University & [EIT NLP](https://eit-nlp.github.io/) of , fortunately supervised by Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) and Dr. [Xiaoyu Shen](https://chin-gyou.github.io//). I received my bachelor's degree from the [College of Artifical Intelligence](https://ai.nankai.edu.cn/) at Nankai University in 2023.  
 
 # Research
+
 I am interested in natural language processing. My current research focuses on **1) Chain-of-Thought Reasoning, and 2) tool calling.**  
 
 # News
+
 [2025.05] Released our new [survey](https://arxiv.org/abs/2505.16782) on Latent Chain-of-Thought Reasoning.  
 [2025.05] Got one papers accepted by ACL 2025🎉!  
 [2024.10] Got one short paper accepted by EMNLP 2024.  
 [2024.09] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/) & [EIT NLP](https://eit-nlp.github.io/), supervised by Prof. Wenjie Li and Dr. Xiaoyu Shen.  
 
 # Publications
+
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=nth3Ph0AAAAJ&hl=en).  
 \* indicates equal contribution
 
@@ -60,4 +63,7 @@ COMP 1411: Introduction to Computer Systems, Spring 2025, PolyU
 COMP 5511: Artificial Intelligence Concepts, Fall 2024, PolyU  
 
 # Invited Talks
+
 [2025.06] Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning at [NICE](https://nice-nlp.github.io/) and [CIPS](http://lmg.cipsc.org.cn/index.html). [[video]](https://mp.weixin.qq.com/s/LAxGE-1q0aoJjhftTa_aiQ?from=groupmessage&isappinstalled=0&scene=1&clicktime=1749642277&enterid=1749642277) 
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EoPAaiFrvVl-nH3vsQ9fQul7urlg3cwFzuGtOtGIypA&cl=ffffff&w=a"></script>
