@@ -14,7 +14,7 @@ I am **Xinghao Chen**, a joint Ph.D. student at the [NLP Group](https://polyunlp
 
 # Research
 
-I am interested in natural language processing. My current research focuses on **1) Chain-of-Thought Reasoning, and 2) tool calling.**  
+I am interested in natural language processing. My current research focuses on **1) Chain-of-Thought reasoning, and 2) tool calling.**  
 
 # News
 
