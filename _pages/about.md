@@ -72,13 +72,5 @@ COMP 5511: Artificial Intelligence Concepts, Fall 2024, PolyU
         <p><center>
       	<div id="clustrmaps-widget" style="width:40%">
 			<script type='text/javascript' id='clustrmaps' src='//clustrmaps.com/map_v2.js?d=EoPAaiFrvVl-nH3vsQ9fQul7urlg3cwFzuGtOtGIypA&cl=ffffff&w=a'></script>
-        </div>
-	<p>
-		<center>
-        <br> 2020-2025 &copy; Jian Wang | Last updated: June 2025
-		</center>
-	</p>		
+        </div>	
 </div>
-
-</body>
-</html>
