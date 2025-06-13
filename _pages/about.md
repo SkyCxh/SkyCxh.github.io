@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am **Xinghao Chen**, a joint Ph.D. student at the [NLP Group](https://polyunlp.github.io/) of The Hong Kong Polytechnic University & [EIT NLP](https://eit-nlp.github.io/) of Eastern Institute of Technology, Ningbo, fortunately supervised by Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) and Dr. [Xiaoyu Shen](https://chin-gyou.github.io//). I received my bachelor's degree from the [College of Artifical Intelligence](https://ai.nankai.edu.cn/) at Nankai University in 2023.  
+I am **Xinghao Chen**, a joint Ph.D. student at the [NLP Group](https://polyunlp.github.io/) of The Hong Kong Polytechnic University & [EIT NLP](https://eit-nlp.github.io/) of Eastern Institute of Technology, Ningbo, fortunately supervised by Dr. [Xiaoyu Shen](https://chin-gyou.github.io//) and Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/). I received my bachelor's degree from the [College of Artifical Intelligence](https://ai.nankai.edu.cn/) at Nankai University in 2023.  
 
 # Research
 
@@ -21,7 +21,7 @@ I am interested in natural language processing. My current research focuses on *
 [2025.05] Released our new [survey](https://arxiv.org/abs/2505.16782) on Latent Chain-of-Thought Reasoning.  
 [2025.05] Got one papers accepted by ACL 2025🎉!  
 [2024.10] Got one short paper accepted by EMNLP 2024.  
-[2024.09] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/) & [EIT NLP](https://eit-nlp.github.io/), supervised by Prof. Wenjie Li and Dr. Xiaoyu Shen.  
+[2024.09] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/) & [EIT NLP](https://eit-nlp.github.io/), supervised by Dr. Xiaoyu Shen and Prof. Wenjie Li.  
 
 # Publications
 
