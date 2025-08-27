@@ -34,7 +34,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 Arxiv 2025. [[link]](https://arxiv.org/abs/2505.16782) [[code]](https://github.com/EIT-NLP/Awesome-Latent-CoT)  
 
 **Rethinking Visual Layer Selection in Multimodal LLMs**  
-Haoran Chen, Junyan Lin, **<ins>Xinghao Chen</ins>**, Yue Fan, Xin Jin, Hui Su, Jianfeng Dong, Jinlan Fu, Xiaoyu Shen  
+Haoran Chen\*, Junyan Lin\*, **<ins>Xinghao Chen</ins>**, Yue Fan, Xin Jin, Hui Su, Jianfeng Dong, Jinlan Fu, Xiaoyu Shen  
 EMNLP 2025. [[link]](https://arxiv.org/abs/2504.21447)  
 
 **MultiConIR: Towards multi-condition Information Retrieval**  
