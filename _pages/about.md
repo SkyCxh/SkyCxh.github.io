@@ -18,6 +18,7 @@ I am interested in natural language processing. My current research focuses on *
 
 # News
 
+[2025.08] Got two papers accepted by EMNLP 2025🎉! 
 [2025.05] Released our new [survey](https://arxiv.org/abs/2505.16782) on Latent Chain-of-Thought Reasoning.  
 [2025.05] Got one papers accepted by ACL 2025🎉!  
 [2024.10] Got one short paper accepted by EMNLP 2024.  
@@ -32,17 +33,17 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 **<ins>Xinghao Chen</ins>**\*, Anhao Zhao\*, Heming Xia, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang<sup>†</sup>, Wenjie Li, Xiaoyu Shen<sup>†</sup>  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2505.16782) [[code]](https://github.com/EIT-NLP/Awesome-Latent-CoT)  
 
-**MultiConIR: Towards multi-condition Information Retrieval**  
-Xuan Lu, Sifan Liu, Bochao Yin, Yongqi Li, **<ins>Xinghao Chen</ins>**, Hui Su, Yaohui Jin, Wenjun Zeng, Xiaoyu Shen  
-Arxiv 2025. [[link]](https://arxiv.org/abs/2503.08046) [[code]](https://github.com/EIT-NLP/MultiConIR)  
-
 **Rethinking Visual Layer Selection in Multimodal LLMs**  
 Haoran Chen, Junyan Lin, **<ins>Xinghao Chen</ins>**, Yue Fan, Xin Jin, Hui Su, Jianfeng Dong, Jinlan Fu, Xiaoyu Shen  
-Arxiv 2025. [[link]](https://arxiv.org/abs/2504.21447)  
+EMNLP 2025. [[link]](https://arxiv.org/abs/2504.21447)  
+
+**MultiConIR: Towards multi-condition Information Retrieval**  
+Xuan Lu, Sifan Liu, Bochao Yin, Yongqi Li, **<ins>Xinghao Chen</ins>**, Hui Su, Yaohui Jin, Wenjun Zeng, Xiaoyu Shen  
+Findings of EMNLP 2025. [[link]](https://arxiv.org/abs/2503.08046) [[code]](https://github.com/EIT-NLP/MultiConIR)  
 
 **Unveiling the Key Factors for Distilling Chain-of-Thought Reasoning**  
 **<ins>Xinghao Chen</ins>**, Zhijing Sun, Wenjin Guo, Miaoran Zhang, Yanjun Chen, Yirong Sun, Hui Su, Yijie Pan, Dietrich Klakow, Wenjie Li, Xiaoyu Shen  
-Findings of ACL 2025. [[link]](https://arxiv.org/abs/2502.18001) [[code]](https://github.com/EIT-NLP/Distilling-CoT-Reasoning)  
+Findings of ACL 2025. [[link]](https://arxiv.org/abs/2502.18001) [[code]](https://github.com/EIT-NLP/Distilling-CoT-Reasoning) (Oral Presentation @ PolyU COMP 2025 Research Student Conference) 
 
 **The Accuracy Paradox in RLHF: When Better Reward Models Don't Yield Better Language Models**  
 Yanjun Chen, Dawei Zhu, Yirong Sun, **<ins>Xinghao Chen</ins>**, Wei Zhang, Xiaoyu Shen  
@@ -64,7 +65,7 @@ COMP 5511: Artificial Intelligence Concepts, Fall 2024, PolyU
 
 # Invited Talks
 
-[2025.06] Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning at [NICE](https://nice-nlp.github.io/) and [CIPS](http://lmg.cipsc.org.cn/index.html). [[video]](https://mp.weixin.qq.com/s/LAxGE-1q0aoJjhftTa_aiQ?from=groupmessage&isappinstalled=0&scene=1&clicktime=1749642277&enterid=1749642277) 
+[2025.06] Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning at [NICE](https://nice-nlp.github.io/) and [CIPS](http://lmg.cipsc.org.cn/index.html). [[video]](https://www.bilibili.com/video/BV1HGMczkEZz/?spm_id_from=333.1387.upload.video_card.click&vd_source=faf159ae052af24b9fed9313aa72e254) 
 
 
 <div id="clustrmaps-widget" style="width:40%; margin: 0 auto; display: block;">
