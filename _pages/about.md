@@ -18,7 +18,7 @@ I am interested in natural language processing. My current research focuses on *
 
 # News
 
-[2025.08] Got two papers accepted by EMNLP 2025🎉! 
+[2025.08] Got two papers accepted by EMNLP 2025🎉!   
 [2025.05] Released our new [survey](https://arxiv.org/abs/2505.16782) on Latent Chain-of-Thought Reasoning.  
 [2025.05] Got one papers accepted by ACL 2025🎉!  
 [2024.10] Got one short paper accepted by EMNLP 2024.  
