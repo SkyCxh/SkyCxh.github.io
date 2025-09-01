@@ -60,6 +60,7 @@ Safety Science. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S
 # Service
 
 **Teaching Assistant:**    
+COMP 5241: Software Engineering and Development, Fall 2025, PolyU  
 COMP 1411: Introduction to Computer Systems, Spring 2025, PolyU  
 COMP 5511: Artificial Intelligence Concepts, Fall 2024, PolyU  
 
