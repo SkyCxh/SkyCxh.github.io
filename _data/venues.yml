@@ -1,0 +1,27 @@
+"ICML":
+  color:
+  url: "https://icml.cc/"
+
+"ACL":
+  color:
+  url: "https://aclanthology.org/venues/acl/"
+
+"EMNLP":
+  color:
+  url: "https://aclanthology.org/venues/emnlp/"
+
+"CVPR":
+  color:
+  url: "https://cvpr.thecvf.com/"
+
+"Safety Sci.":
+  color:
+
+"EAAI":
+  color:
+
+"JSSR":
+  color:
+
+"SAA":
+  color:
