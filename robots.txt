@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://SkyCxh.github.io/sitemap.xml
