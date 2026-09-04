@@ -2,6 +2,8 @@
 
 The following previews are unmodified figures downloaded from the corresponding paper's arXiv HTML or publisher image server. Each preview is displayed alongside its paper title and authors on the Publications page.
 
+`unitoolcall.png`: UniToolCall, Fig. 2 (overall framework), from [arXiv v3](https://arxiv.org/html/2604.11557v3/framework.png).
+
 | Preview file              | Paper figure                                                                                                                                                      | Original image                                                                             |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | `autodataset.png`         | AutoDataset, Fig. 1: system architecture                                                                                                                          | [arXiv](https://arxiv.org/html/2603.07271v1/overflow.png)                                  |
