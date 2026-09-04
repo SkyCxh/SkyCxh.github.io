@@ -1,0 +1,11 @@
+# Publication preview sources
+
+The following previews are unmodified figures downloaded from the corresponding paper's arXiv HTML or publisher image server. Each preview is displayed alongside its paper title and authors on the Publications page.
+
+| Preview file              | Paper figure                                                                                                                                                      | Original image                                                                             |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| `autodataset.png`         | AutoDataset, Fig. 1: system architecture                                                                                                                          | [arXiv](https://arxiv.org/html/2603.07271v1/overflow.png)                                  |
+| `tunnel-fire.jpg`         | Smart Real-Time Evaluation of Tunnel Fire Risk and Evacuation Safety via Computer Vision, Fig. 1: overall methodology                                             | [Publisher figure](https://ars.els-cdn.com/content/image/1-s2.0-S092575352400153X-gr1.jpg) |
+| `building-evacuation.jpg` | Smart Building Evacuation by Tracking Multi-Camera Network and Explainable Re-Identification Model, Fig. 2: tracking framework                                    | [Publisher figure](https://ars.els-cdn.com/content/image/1-s2.0-S095219762500394X-gr2.jpg) |
+| `hbdset.jpg`              | Human Behaviour Detection Dataset (HBDset), Fig. 2: dataset and experiment workflow                                                                               | [Publisher figure](https://ars.els-cdn.com/content/image/1-s2.0-S2666449624000343-gr2.jpg) |
+| `mixed-fish.jpg`          | Probing 1D Convolutional Neural Network Adapted to Near-Infrared Spectroscopy for Efficient Classification of Mixed Fish, Fig. 1: convolutional network schematic | [Publisher figure](https://ars.els-cdn.com/content/image/1-s2.0-S1386142522004991-gr1.jpg) |
