@@ -4,6 +4,10 @@ The following previews are unmodified figures downloaded from the corresponding 
 
 `unitoolcall.png`: UniToolCall, Fig. 2 (overall framework), from [arXiv v3](https://arxiv.org/html/2604.11557v3/framework.png).
 
+`attuner.png`: Attuner, Fig. 1 (approaches to reusable artifact caching), from [arXiv v1](https://arxiv.org/html/2609.36722v1/figure1.png).
+
+`latent-graph-memory.png`: LGM, Fig. 2 (method overview), from [arXiv v2](https://arxiv.org/html/2609.18461v2/1-Method-v2.png).
+
 | Preview file              | Paper figure                                                                                                                                                      | Original image                                                                             |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | `autodataset.png`         | AutoDataset, Fig. 1: system architecture                                                                                                                          | [arXiv](https://arxiv.org/html/2603.07271v1/overflow.png)                                  |
