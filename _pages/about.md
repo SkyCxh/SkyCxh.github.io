@@ -36,6 +36,13 @@ My research focuses on efficient reasoning and reusable context for large langua
 
 {% include news.liquid limit=true %}
 
+<style>
+  html[data-theme="dark"] .publications ol.bibliography li .abbr abbr.badge,
+  html[data-theme="dark"] .publications ol.bibliography li .abbr abbr.badge * {
+    color: #fff !important;
+  }
+</style>
+
 ## [Selected Publications](/publications/)
 
 (\*) Equal Contribution. (†) Corresponding Author.
